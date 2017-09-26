@@ -1,0 +1,83 @@
+{
+  "bands": [
+    {
+      "id": 1,
+      "name": "The Beatles",
+      "yearsActive": "1960-1970",
+      "members": [
+        {
+          "lastName": "Lennon",
+          "firstName": "John"
+        },
+        {
+          "lastName": "McCartney",
+          "firstName": "Paul"
+        },
+        {
+          "lastName": "Starr",
+          "firstName": "Ringo"
+        },
+        {
+          "lastName": "Harrison",
+          "firstName": "George"
+        }
+      ],
+      "genre": "rock"
+    },
+    {
+      "id": 2,
+      "name": "LCD Soundsystem",
+      "yearsActive": "2002-2011",
+      "members": [
+        {
+          "lastName": "Murphy",
+          "firstName": "James"
+        },
+        {
+          "lastName": "Mahoney",
+          "firstName": "Pat"
+        },
+        {
+          "lastName": "Whang",
+          "firstName": "Nancy"
+        },
+        {
+          "lastName": "Tyler",
+          "firstName": "Pope"
+        }
+      ],
+      "genre": "alternative"
+    },
+    {
+      "id": 3,
+      "name": "Arcade Fire",
+      "yearsActive": "2001-present",
+      "members": [
+        {
+          "lastName": "Butler",
+          "firstName": "Win"
+        },
+        {
+          "lastName": "Chassagne",
+          "firstName": "Régine"
+        },
+        {
+          "lastName": "Butler",
+          "firstName": "William"
+        },
+        {
+          "lastName": "Reed PArry",
+          "firstName": "Richard"
+        }
+      ],
+      "genre": "alternative"
+    }
+  ],
+  "genres": [
+    "rock",
+    "pop",
+    "edm",
+    "jazz",
+    "alternative"
+  ]
+}
