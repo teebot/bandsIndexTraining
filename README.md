@@ -4,12 +4,14 @@ A boilerplate for react and express in typescript
 
 ## Install
 
-npm i
+`npm i`
 
 ## Run
 
-npm start
+`npm start`
 
 ## Develop
 
-npm run dev
+`npm run dev`
+
+or `docker-compose up`
